@@ -1,1 +1,1 @@
-# train_test_split_from_csv
+# train-test split image folder and label csv
